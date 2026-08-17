@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahamed018-eng.github.io/suvo-sonu-enterprise/sitemap.xml
